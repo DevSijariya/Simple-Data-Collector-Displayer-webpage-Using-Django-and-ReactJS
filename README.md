@@ -2,8 +2,8 @@
 User Info Manager is a full-stack web application that allows users to submit and manage their personal information, specifically names and email addresses. Built with React.js for the frontend and Django REST Framework for the backend, the application features a simple form for data entry and dynamically displays submitted information.
 
 ### `Project Structure`
-│
-├── simpleform_backend/
+
+├── simpleform_backend/ \n
 │   ├── manage.py
 │   ├── requirements.txt
 │   ├── userinfo/
