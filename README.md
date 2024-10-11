@@ -1,26 +1,26 @@
 # Simple-Data-Collector-Displayer-webpage-Using-Django-and-ReactJS
 User Info Manager is a full-stack web application that allows users to submit and manage their personal information, specifically names and email addresses. Built with React.js for the frontend and Django REST Framework for the backend, the application features a simple form for data entry and dynamically displays submitted information.
 
-Directory Overview
-## Directory Overview
+
+### `Directory Overview`
     └──simpleform_backend/ 
-       ├── manage.py
-       ├── db.sqlite3
-       └── simpleform_backend/
-          ├── __init__.py
-          ├── admin.py
-          ├── apps.py
-          ├── models.py
-          ├── serializers.py
-          ├── urls.py
-          ├── views.py
-          └── migrations/
-      └── UserInfoManager/
-          ├── __init__.py
-          ├── settings.py
-          ├── urls.py
-          └── wsgi.py
- 
+    │  ├── manage.py
+    │  ├── db.sqlite3
+    │  └── simpleform_backend/
+    │  │  ├── __init__.py
+    │  │  ├── admin.py
+    │  │  ├── apps.py
+    │  │  ├── models.py
+    │  │  ├── serializers.py
+    │  │  ├── urls.py
+    │  │  ├── views.py
+    │  │  └── migrations/
+    │  └── UserInfoManager/
+    │     ├── __init__.py
+    │     ├── settings.py
+    │     ├── urls.py
+    │     └── wsgi.py
+    │
     └──simple-frontend-form/
        ├── public/
        ├── src/
