@@ -15,7 +15,7 @@ User Info Manager is a full-stack web application that allows users to submit an
     │  │  ├── urls.py
     │  │  ├── views.py
     │  │  └── migrations/
-    │  └── UserInfoManager/
+    │  └── Myform/
     │     ├── __init__.py
     │     ├── settings.py
     │     ├── urls.py
