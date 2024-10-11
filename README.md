@@ -22,15 +22,15 @@ User Info Manager is a full-stack web application that allows users to submit an
 ## │       └── wsgi.py
 ## │
 ## └──simple-frontend-form/
-##    ├── public/
-##     ├── src/
-##     │   ├── App.js
-##     │   ├── index.js
-##     │   ├── Form.js
-##     |   └── components/
-##     |       └──  Form.js
-##     ├── package.json
-##     └── package-lock.json
+    ├── public/
+     ├── src/
+     │   ├── App.js
+     │   ├── index.js
+     │   ├── Form.js
+     │   └── components/
+     │       └──  Form.js
+     ├── package.json
+     └── package-lock.json
 
     Instructions for Running the Project
 ### `Set Up the Backend:`
