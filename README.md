@@ -42,10 +42,10 @@ User Info Manager is a full-stack web application that allows users to submit an
 
 #### `Set Up the Frontend:`
 
-Navigate to the frontend directory.
-Install the npm dependencies.
-Start the React development server.
-Access the Application:
+. Navigate to the frontend directory.
+. Install the npm dependencies.
+. Start the React development server.
+. Access the Application:
 
 Open a web browser and go to http://localhost:3000 to view the User Info Manager.
 Conclusion
