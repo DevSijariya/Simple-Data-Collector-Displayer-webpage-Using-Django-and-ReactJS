@@ -35,10 +35,10 @@ User Info Manager is a full-stack web application that allows users to submit an
     Instructions for Running the Project
 ### `Set Up the Backend:`
 
-Navigate to the backend directory.
-Create a virtual environment and activate it.
-Install the dependencies listed in requirements.txt.
-Run the Django server.
+1. Navigate to the backend directory.
+2. Create a virtual environment and activate it.
+3. Install the dependencies listed in requirements.txt.
+4. Run the Django server.
 
 #### `Set Up the Frontend:`
 
